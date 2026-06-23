@@ -106,13 +106,6 @@ Become an AI Engineer and build impactful AI products.
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manmohan-01&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
