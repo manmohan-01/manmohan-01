@@ -1,57 +1,138 @@
-<!-- Banner (Capsule Render) -->
+<!-- Animated Banner -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:0A66C2,50:00C6FF,75:7B68EE,100:0D1117&text=MANMOHAN&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:0A66C2,50:00C6FF,75:7B68EE,100:0D1117&text=MANMOHAN&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 </p>
 
-<!-- Typing animation -->
+<!-- Typing SVG -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&lines=Aspiring+AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Prompt+Engineer;Generative+AI+Enthusiast;Full+Stack+Developer;Python+Developer;Always+Learning+New+Things"/>
 </p>
 
-## 👨‍💻 About Me
-- 🎓 **Education:** 2nd Year BCA student  
-- 🤖 **Interests:** Artificial Intelligence, Prompt Engineer, Gen AI, Full-Stack Web Development  
-- 💻 **Tech:** Python,Numpy, Pandas, MySQL, GIT, GITHUB, C/C++, Java, Firebase, HTML/CSS/JavaScript  
-- 🚀 **Current Projects:** HeyDude Chat App, Mini Bank System (Python), Personal Portfolio, To-Do Web App  
-- 🎯 **Goals:** Becoming an AI Engineer and building impactful AI/ML products.
+---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/man-mohan-b88154342) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/manmohan-01) 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:manmohan@example.com)
+# 👨‍💻 About Me
 
-## 💻 Tech Stack
+🎓 BCA Student (2nd Year)
+
+🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
+
+💻 Full Stack Web Developer
+
+🌱 Currently Learning:
+- Machine Learning
+- Generative AI
+- NumPy & Pandas
+- DBMS & Operating Systems
+
+🚀 Working On:
+- HeyDude Chat Application
+- AI Projects
+- Personal Portfolio
+
+🎯 Goal:
+Become an AI Engineer and build impactful AI products.
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,express,mongodb,firebase,html,css,git,github,vscode&perline=6" />
+
+<a href="https://www.linkedin.com/in/man-mohan-b88154342">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manmohan-01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-manmohan13.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
-## 📊 GitHub Stats
+---
+
+# 💻 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manmohan-01&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohan-01&layout=compact&theme=transparent" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,nodejs,express,mongodb,firebase,mysql,git,github,vscode&perline=7"/>
 </p>
 
-## 🔥 GitHub Streak
+---
+
+# 🚀 Featured Projects
+
+🔹 HeyDude Chat Application
+
+🔹 Mini Bank System (Python)
+
+🔹 Personal Portfolio Website
+
+🔹 To-Do List Application
+
+🔹 AI & Machine Learning Experiments
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manmohan-01&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manmohan-01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohan-01&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-## 📈 Contribution Graph
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmohan-01&theme=github-compact&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=manmohan-01&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🐍 Contribution Snake
-## 🐍 Contribution Snake
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manmohan-01&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manmohan-01&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/manmohan-01/manmohan-01/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation"
+    <img alt="github contribution snake animation"
       src="https://raw.githubusercontent.com/manmohan-01/manmohan-01/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
-## ✍️ Random Dev Quote
+---
+
+# ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+# 👀 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=manmohan-01&style=for-the-badge)
