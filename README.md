@@ -62,6 +62,11 @@ Become an AI Engineer and build impactful AI products.
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,firebase,mysql,git,github,vscode&perline=6" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
 # 🚀 Featured Projects
 
 🔹 HeyDude Chat Application
