@@ -1,99 +1,55 @@
-<!-- Animated Banner -->
+# Hi there 👋 I'm Manmohan
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:0A66C2,50:00C6FF,75:7B68EE,100:0D1117&text=MANMOHAN&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
-</p>
+<div align="center">
 
-<!-- Typing SVG -->
+### 🚀 AI Engineer in Progress | Python Developer | Tech Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Prompt+Engineer;Generative+AI+Enthusiast;Full+Stack+Developer;Python+Developer;Always+Learning+New+Things"/>
-</p>
+*"Learning today. Building tomorrow."*
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 BCA Student (2nd Year)
-
-🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
-
-💻 Full Stack Web Developer
-
-🌱 Currently Learning:
-- Machine Learning
-- Generative AI
-- NumPy & Pandas
-- DBMS & Operating Systems
-
-🚀 Working On:
-- HeyDude Chat Application
-- AI Projects
-- Personal Portfolio
-
-🎯 Goal:
-Become an AI Engineer and build impactful AI products.
+* 🌱 Currently learning **AI Engineering, Agentic AI & Python**
+* ☁️ Exploring **Cloud Computing & DevOps**
+* 💡 Passionate about solving problems through code
+* 🎯 Goal: Build intelligent AI applications from scratch
+* 📚 Always learning something new
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
 
-<a href="https://www.linkedin.com/in/man-mohan-b88154342">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/manmohan-01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://manmohan13.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,vscode,mysql" />
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 📌 Featured Project
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,firebase,mysql,git,github,vscode&perline=6" />
-</p>
+### 🎮 Rock Paper Scissors Game
 
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+A simple and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 
-# 🚀 Featured Projects
+🔗 **Live Demo:**
+https://final-rock-paper-scissors-game.netlify.app/
 
-🔹 HeyDude Chat Application
-
-🔹 Mini Bank System (Python)
-
-🔹 Personal Portfolio Website
-
-🔹 To-Do List Application
-
-🔹 AI & Machine Learning Experiments
+📂 **Repository:**
+https://github.com/manmohan-01/Rock_Paper_Scissors_Game
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=manmohan-01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohan-01&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=manmohan-01&theme=tokyonight&hide_border=true"/>
@@ -101,32 +57,20 @@ Become an AI Engineer and build impactful AI products.
 
 ---
 
-# 📈 Contribution Graph
+## 🤝 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manmohan-01&theme=tokyo-night&hide_border=true"/>
+<p align="left">
+<a href="https://github.com/manmohan-01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
+<div align="center">
 
-# 🐍 Contribution Snake
+### ⭐ Thanks for visiting my profile!
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/manmohan-01/manmohan-01/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution snake animation"
-      src="https://raw.githubusercontent.com/manmohan-01/manmohan-01/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+*"Code • Learn • Build • Repeat"* 🚀
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-# 👀 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=manmohan-01&style=for-the-badge)
+</div>
