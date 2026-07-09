@@ -13,8 +13,6 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manmohan-01&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
 ### 🚀 About Me
 
 - 🌱 Currently sharpening my skills in **Python, JavaScript & Web Development**
