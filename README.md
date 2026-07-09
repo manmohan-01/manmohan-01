@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=manmohan-01&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
 
 <a href="https://www.linkedin.com/in/man-mohan-b88154342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/ManMohan_013"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/ManMohan_013"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
